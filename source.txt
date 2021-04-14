@@ -21,6 +21,12 @@ $('#titleAvailability').textContent
 https://www.shoptime.com.br/produto/133253298/placa-de-video-radeon-rx-580-8gb-oc-gts-xxx-edition-ddr5-1386mhz-xfx?epar=sa_at_ov_fb_depart_csproduto7d_t1&fbclid=PAAaZEFw4bAHsWdn6gAsXyOf_Yg7LedZUySuWb6R0jsYj_BWBXladKxS0NrC8_aem_AbyVPpJmYj8WbKTz-24RQ2H9AtRbNMq8pfTnL-p451TryEnOL36XPTJA9fGGfeU5lseUQpQIUM-SPpoZ9t-5Sby3tYxsbQA2yksDy-eujFqrLpg0Pv3rL0j07X7Jol9IH4o&opn=FACEBOOKDPA&s_term=FACEBOOKDPA
 $('#title-stock').textContent
 
+
+
+
+
+
+
 https://www.submarino.com.br/produto/1808916311/placa-de-video-pci-e-6gb-gainward-ghost-geforce-gtx1660-super?epar=sa_at_ov_fb_dpa_nov20_006&fbclid=IwAR1Q_KETzyO2yb9RuK4GZOthrXjjDpk32DQbduUJrfTB7U3kkfYwseQNxOg_aem_Abya8NdbR1rXiLLxu8fWhotCk4ZMjiUCTbMg9asY_5W8U7IkUc1jAqTG_oX2KvMkvOVypbF9OZ3X5VvuZ_8vc7_5b4iMzC1jBYqVCro0Zyyk5BaiV3xQTXAKX9lLBhl1MPE&opn=FACEBOOKDPA&s_term=FACEBOOKDPA&utm_id=at1%2125165879
 $('#title-stock').textContent
 
