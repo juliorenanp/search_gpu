@@ -23,10 +23,6 @@ $('#title-stock').textContent
 
 
 
-
-
-
-
 https://www.submarino.com.br/produto/1808916311/placa-de-video-pci-e-6gb-gainward-ghost-geforce-gtx1660-super?epar=sa_at_ov_fb_dpa_nov20_006&fbclid=IwAR1Q_KETzyO2yb9RuK4GZOthrXjjDpk32DQbduUJrfTB7U3kkfYwseQNxOg_aem_Abya8NdbR1rXiLLxu8fWhotCk4ZMjiUCTbMg9asY_5W8U7IkUc1jAqTG_oX2KvMkvOVypbF9OZ3X5VvuZ_8vc7_5b4iMzC1jBYqVCro0Zyyk5BaiV3xQTXAKX9lLBhl1MPE&opn=FACEBOOKDPA&s_term=FACEBOOKDPA&utm_id=at1%2125165879
 $('#title-stock').textContent
 
