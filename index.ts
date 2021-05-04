@@ -2,7 +2,7 @@ const http = require('http');
 const { moveCursor } = require('node:readline');
 const puppeteer = require('puppeteer');
 
-const sitex = 'https://www.submarino.com.br/produto/2818205379/placa-de-video-gigabyte-amd-radeon-rx-5600-xt-windforce-oc-6g-6gb-gddr6-rev-1-0-gv-r56xtwf2oc-6gd';
+const sitex = 'httzps://www.submarino.com.br/produto/2818205379/placa-de-video-gigabyte-amd-radeon-rx-5600-xt-windforce-oc-6g-6gb-gddr6-rev-1-0-gv-r56xtwf2oc-6gd';
 
 const hostname = '127.0.0.1';
 const port = 3000;
